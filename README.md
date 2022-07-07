@@ -3,8 +3,9 @@
 This was one of my last project during Unity Junior Programmer Pathway. It was divided on two different tasks.
 
 ## Table of Contents
- * [First task](https://github.com/Minal06/Jr-Programmer-Project/README.md#first-task)
- * [Second task](
+ * [First task](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#first-task)
+ * [Second task](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#second-task)
+ * [Links](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#links)
 
 ### First task:
 
