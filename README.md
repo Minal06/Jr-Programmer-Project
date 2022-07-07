@@ -1,8 +1,12 @@
-# Jr-Programmer-Project
+# **Jr-Programmer-Project**
 
 This was one of my last project during Unity Junior Programmer Pathway. It was divided on two different tasks.
 
-***First task:***
+## Table of Contents
+ * [First task](https://github.com/Minal06/Jr-Programmer-Project/README.md#first-task)
+ * [Second task](
+
+### First task:
 
 I received files with a prepared scene and I setup my first version control tool - Github.
 
@@ -17,9 +21,11 @@ Please check scripts:
 
 I also add an encapsulation for crucial properties - as intended in this task.
 
-***Second Task:***
+### Second Task:
 
 There was also prepared Optimization folder. Scene there spawn a lot of different game objects, that slow down game drastically.
 
 My task was to optimalize scene with use of Unity Profiler.
 With *Profiler.BeginSample();* and *EndSample();* I manage to find and solve the issue in the **OptimUnit** script.
+
+### Links
