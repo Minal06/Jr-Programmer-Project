@@ -5,7 +5,6 @@ This was one of my last project during Unity Junior Programmer Pathway. It was d
 ## Table of Contents
  * [First task](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#first-task)
  * [Second task](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#second-task)
- * [Links](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#links)
 
 ### First task:
 
@@ -22,6 +21,12 @@ Please check scripts:
 
 I also add an encapsulation for crucial properties - as intended in this task.
 
+##### Start Menu
+![MainMenu](https://user-images.githubusercontent.com/94176489/177878076-94b2a31f-f645-45f6-80b3-ffda910722e6.jpg)
+
+##### Gameplay
+![Gamegif](https://user-images.githubusercontent.com/94176489/177879000-f9cd64e4-6f65-45ab-ac61-489ec014c894.gif)
+
 ### Second Task:
 
 There was also prepared Optimization folder. Scene there spawn a lot of different game objects, that slow down game drastically.
@@ -29,4 +34,8 @@ There was also prepared Optimization folder. Scene there spawn a lot of differen
 My task was to optimalize scene with use of Unity Profiler.
 With *Profiler.BeginSample();* and *EndSample();* I manage to find and solve the issue in the **OptimUnit** script.
 
-### Links
+##### Optimalization task
+![Optimalization](https://user-images.githubusercontent.com/94176489/177877824-f5b20e70-a271-4342-acd7-fa1c23539a53.gif)
+
+
+
