@@ -1,6 +1,6 @@
 # **Jr-Programmer-Project**
 
-This was one of my last project during Unity Junior Programmer Pathway. It was divided on two different tasks.
+This was one of my last project during Unity Junior Programmer Pathway. It was divided to two different tasks.
 
 ## Table of Contents
  * [First task](https://github.com/Minal06/Jr-Programmer-Project/blob/main/README.md#first-task)
@@ -10,16 +10,16 @@ This was one of my last project during Unity Junior Programmer Pathway. It was d
 
 I received files with a prepared scene and I setup my first version control tool - Github.
 
-Then I have to implement some functions with object-oriented programming:
+Then I had to implement some functions with object-oriented programming:
 - Necessary scene flow and interface buttons
 - Data persistance between scenes (color choose of in-game elements in start menu and apply it in  simulation)
 - Data persistance between sessions (with json)
 
 Please check scripts:
- **MainManager** - It was wrote with a singleton usage for this task. 
+ **MainManager** - It was written with a singleton usage for this task. 
  **ProductivityUnit** - It was class that inherit from Unit class and override some methods.
 
-I also add an encapsulation for crucial properties - as intended in this task.
+I also added encapsulation for crucial properties - as intended in this task.
 
 ##### Start Menu
 ![MainMenu](https://user-images.githubusercontent.com/94176489/177878076-94b2a31f-f645-45f6-80b3-ffda910722e6.jpg)
