@@ -19,7 +19,7 @@ Please check scripts:
  **MainManager** - It was written with a singleton usage for this task. 
  **ProductivityUnit** - It was class that inherit from Unit class and override some methods.
 
-I also added encapsulation for crucial properties - as intended in this task.
+I also added an encapsulation for crucial properties - as intended in this task.
 
 ##### Start Menu
 ![MainMenu](https://user-images.githubusercontent.com/94176489/177878076-94b2a31f-f645-45f6-80b3-ffda910722e6.jpg)
@@ -29,7 +29,7 @@ I also added encapsulation for crucial properties - as intended in this task.
 
 ### Second Task:
 
-There was also prepared Optimization folder. Scene there spawn a lot of different game objects, that slow down game drastically.
+There was also prepared Optimization folder. Scene spawned a lot of different game objects, that slow down game drastically.
 
 My task was to optimalize scene with use of Unity Profiler.
 With *Profiler.BeginSample();* and *EndSample();* I manage to find and solve the issue in the **OptimUnit** script.
